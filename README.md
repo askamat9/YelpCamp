@@ -1,0 +1,1 @@
+My first project in full stack web development. A website based on Yelp using MongoDB, Express.js, and Node.js on the backend; and Bootstrap, jQuery, and EJS templates on the front end. I made this project as a part of learning web development through Colt Steele's online bootcamp.
